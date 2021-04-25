@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jisellejones
+- 👋 Hi, I’m Adenine.
 - 👀 I’m interested in environmental science, climate change, biology, educational equity, civil rights.
 - 🌱 I’m currently learning data analytics.
 - 💞️ I’m new here, so I'm discovering what it is I want collaborate on. 
