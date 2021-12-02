@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jiselle.
 - 👀 I’m interested in environmental science, climate change, biology, educational equity, civil rights.
-- 🌱 I’m currently learning data analytics.
-- 💞️ I’m new here, so I'm discovering what it is I want collaborate on. 
-- 📫 How to reach me  - not sure yet.
+- 🌱 I’m currently learning Machine Learning and am really interested in Natural Language Processing.
+- 💞️ I love data analytics!!
+- 📫 jisellejones@gmail.com
 
 <!---
 jisellejones/jisellejones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
